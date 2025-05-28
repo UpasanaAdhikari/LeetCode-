@@ -7,3 +7,11 @@ Welcome to my personal LeetCode practice repository! Here, I solve one coding pr
 ## 🛠️ Languages Used
 
 - 🐍 Python
+
+## 📅 Progress Calendar
+
+| Date       | Problem(s) Solved                              | Difficulty |
+|------------|------------------------------------------------|------------|
+| 2025-05-28 | Roman to Integer                               | Easy       |
+| 2025-05-27 | Palindrome number                              | Easy       |    
+| 2025-05-26 | Two Sum                                        | Easy       |
